@@ -1,0 +1,10 @@
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class\MySql_Class\bin\Release\MySql_Class.dll
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class\MySql_Class\bin\Release\MySql_Class.pdb
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class\MySql_Class\obj\Release\MySql_Class.csprojResolveAssemblyReference.cache
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class\MySql_Class\obj\Release\MySql_Class.dll
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class\MySql_Class\obj\Release\MySql_Class.pdb
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class Static\MySql_Class\obj\Release\MySql_Class.csprojResolveAssemblyReference.cache
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class Static\MySql_Class\obj\Release\MySql_Class.dll
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class Static\MySql_Class\obj\Release\MySql_Class.pdb
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class Static\MySql_Class\bin\Release\MySql_Class.dll
+C:\Users\Василий\Desktop\Станкин\Диплом\MySql_Class Static\MySql_Class\bin\Release\MySql_Class.pdb
